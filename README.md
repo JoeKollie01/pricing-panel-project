@@ -1,6 +1,7 @@
 Pricing Panel Projec
 
 The Pricing Panel Project is a code-along web application designed to provide a sleek and user-friendly interface for displaying pricing information.
+
 Features
 
     Responsive Design:The pricing panel is built with a responsive design to ensure optimal viewing and interaction across various devices, including desktops, tablets, and smartphones.
